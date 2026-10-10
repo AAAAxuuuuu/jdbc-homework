@@ -3,3 +3,8 @@ target/
 *.iml
 db-local.properties
 verification-output.txt
+
+# 本地说明和验证辅助文件不纳入作业仓库
+*.md
+db-local.properties.example
+src/test/
